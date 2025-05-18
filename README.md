@@ -1,4 +1,4 @@
-<b>Dvd Rental and Salaries Data SQL Query</b>
+<h2><b>Dvd Rental and Salaries Data SQL Query</b></h2>
 
 <b>Objectives:</b>
 1. mengimplementasikan DML dalam database
